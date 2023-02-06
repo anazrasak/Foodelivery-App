@@ -1,0 +1,23 @@
+export default {
+    DISCOVER : require('../assets/Discover.png'),
+    ORDER : require('../assets/Order.png'),
+    FAST : require('../assets/Fast.png'),
+    BREAKFAST : require('../assets/breakfast.png'),
+    BURGERS : require('../assets/burger.png'),
+    PIZZA : require('../assets/pizza.png'),
+    COFFEE : require('../assets/coffee.png'),
+    DRINKS : require('../assets/drinks.png'),
+    BURGERKING : require('../assets/burgerking.jpg'),
+    PIZZAHUT : require('../assets/pizzahut.jpg'),
+    KFC : require('../assets/kfc.png'),
+    DOMINOS : require('../assets/dominos.jpg'),
+    MCDONALDS : require('../assets/mcdonalds.jpg'),
+    ARABIAN : require('../assets/arabian.jpg'),
+    MCDONALDSLOGO : require('../assets/mcdonaldslogo.jpg'),
+    PIZZAHUTLOGO : require('../assets/pizzahutlogo.png'),
+    BURGERKINGLOGO : require('../assets/burgerkinglogo.png'),
+    KFCLOGO : require('../assets/kfclogo.png'),
+    DOMINOSLOGO : require('../assets/dominoslogo.png'),
+    ARABIANLOGO : require('../assets/arabianlogo.jpeg'),
+
+}
